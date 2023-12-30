@@ -8,7 +8,7 @@
     "withGlobalTauri": true
   },
   "package": {
-    "productName": "NextChat",
+    "productName": "Nico Chat",
     "version": "2.10.1"
   },
   "tauri": {
@@ -68,7 +68,7 @@
         "icons/icon.ico"
       ],
       "identifier": "com.yida.chatgpt.next.web",
-      "longDescription": "NextChat is a cross-platform ChatGPT client, including Web/Win/Linux/OSX/PWA.",
+      "longDescription": "Nico Chat(based on NextChat) is a cross-platform chat client, including Web/Win/Linux/OSX/PWA.",
       "macOS": {
         "entitlements": null,
         "exceptionDomain": "",
@@ -77,7 +77,7 @@
         "signingIdentity": null
       },
       "resources": [],
-      "shortDescription": "NextChat App",
+      "shortDescription": "Nico Chat App",
       "targets": "all",
       "windows": {
         "certificateThumbprint": null,
@@ -91,7 +91,7 @@
     "updater": {
       "active": true,
       "endpoints": [
-        "https://github.com/Yidadaa/ChatGPT-Next-Web/releases/latest/download/latest.json"
+        "https://github.com/walterclozet/nico-chat-next/releases/latest/download/latest.json"
       ],
       "dialog": false,
       "windows": {
@@ -104,7 +104,7 @@
         "fullscreen": false,
         "height": 600,
         "resizable": true,
-        "title": "NextChat",
+        "title": "Nico Chat",
         "width": 960,
         "hiddenTitle": true,
         "titleBarStyle": "Overlay"
