@@ -150,8 +150,8 @@ const tw: PartialLocaleType = {
     },
   },
   Store: {
-    DefaultTopic: "新的對話",
-    BotHello: "請問需要我的協助嗎？",
+    DefaultTopic: "日香對話",
+    BotHello: "微笑小香香☆让你的心也跟着微笑 传递笑容的矢泽日香 爱日香就要记住小香香哦",
     Error: "出錯了，請稍後再嘗試",
     Prompt: {
       History: (content: string) =>
