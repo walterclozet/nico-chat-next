@@ -359,7 +359,7 @@ const cn = {
   },
   Store: {
     DefaultTopic: "妮可闲聊",
-    BotHello: "~にこにこー♪让你的心绽放笑容~我是传递笑容的矢泽妮可~要记得妮可哦♪Love Nico！",
+    BotHello: "にこにこー♪让你的心绽放笑容\~我是传递笑容的矢泽妮可\~要记得妮可哦♪Love Nico！",
     Error: "出错了，稍后重试吧",
     Prompt: {
       History: (content: string) => "这是历史聊天总结作为前情提要：" + content,
