@@ -9,7 +9,7 @@
   },
   "package": {
     "productName": "Nico Chat",
-    "version": "2.10.1"
+    "version": "2.10.3"
   },
   "tauri": {
     "allowlist": {
@@ -86,12 +86,17 @@
       }
     },
     "security": {
-      "csp": null
+      "csp": null,
+      "dangerousUseHttpScheme": true
     },
     "updater": {
       "active": true,
       "endpoints": [
+<<<<<<< HEAD
         "https://github.com/walterclozet/nico-chat-next/releases/latest/download/latest.json"
+=======
+        "https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web/releases/latest/download/latest.json"
+>>>>>>> 1d6ee64e1dbddff6f2894de55e6b1c47dbc6229a
       ],
       "dialog": false,
       "windows": {
