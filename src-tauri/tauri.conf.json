@@ -9,7 +9,7 @@
   },
   "package": {
     "productName": "Nico Chat",
-    "version": "2.11.2"
+    "version": "2.11.3"
   },
   "tauri": {
     "allowlist": {
