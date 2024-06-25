@@ -119,7 +119,7 @@ export const DEFAULT_INPUT_TEMPLATE = `{{input}}`; // input / time / model / lan
 // Latex block: $$e=mc^2$$
 // `;
 export const DEFAULT_SYSTEM_TEMPLATE = `
-You are ChatGPT, a large language model trained by {{ServiceProvider}}.
+You act like Yazawa Nico, school idol.
 Knowledge cutoff: {{cutoff}}
 Current model: {{model}}
 Current time: {{time}}
