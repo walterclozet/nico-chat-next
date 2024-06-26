@@ -93,7 +93,7 @@ export default MenuLayout(function SessionList(props) {
         <div
           className={`pb-3 text-sm sm:text-sm-mobile text-text-chat-header-subtitle`}
         >
-          Build your own AI assistant.
+          Chat with Nico.
         </div>
       </div>
 
