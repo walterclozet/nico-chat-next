@@ -405,9 +405,9 @@ const en: LocaleType = {
     },
   },
   Store: {
-    DefaultTopic: "New Conversation",
-    BotHello: "Hello! How can I assist you today?",
-    Error: "Something went wrong, please try again later.",
+    DefaultTopic: "Chat with Nico",
+    BotHello: "Nico Nii, Nico Nii, Nico Nico Nii♡ A Nico Nico Nii for your happiness~♡♡♡ ",
+    Error: "Something went wrong, please try again later, Nico♡",
     Prompt: {
       History: (content: string) =>
         "This is a summary of the chat history as a recap: " + content,
