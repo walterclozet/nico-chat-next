@@ -36,7 +36,6 @@ export enum ApiPath {
   OpenAI = "/api/openai",
   Google = "/api/google",
   Anthropic = "/api/anthropic",
-  Google = "/api/google",
   Baidu = "/api/baidu",
   ByteDance = "/api/bytedance",
   Alibaba = "/api/alibaba",
