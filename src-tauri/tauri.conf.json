@@ -8,8 +8,8 @@
     "withGlobalTauri": true
   },
   "package": {
-    "productName": "Nico Chat",
-    "version": "2.13.0"
+    "productName": "NextChat",
+    "version": "2.13.1"
   },
   "tauri": {
     "allowlist": {
