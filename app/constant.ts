@@ -1,3 +1,4 @@
+import path from "path";
 export const OWNER = "walterclozet";
 export const REPO = "nico-chat-next";
 export const REPO_URL = `https://github.com/${OWNER}/${REPO}`;
@@ -41,6 +42,7 @@ export enum Path {
   Sd = "/sd",
   SdNew = "/sd-new",
   Artifacts = "/artifacts",
+  SearchChat = "/search-chat",
 }
 
 export enum ApiPath {
@@ -475,4 +477,7 @@ export const internalAllowedWebDavEndpoints = [
 ];
 
 export const DEFAULT_GA_ID = "G-89WN60ZK2E";
-export const PLUGINS = [{ name: "Stable Diffusion", path: Path.Sd }];
+export const PLUGINS = [
+  { name: "Stable Diffusion", path: Path.Sd },
+  { name: "Search Chat", path: Path.SearchChat },
+];
