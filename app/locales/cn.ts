@@ -25,9 +25,9 @@ const cn = {
     Input: "在此处填写访问码",
     Confirm: "确认",
     Later: "稍后再说",
-    SaasTips: "配置太麻烦，想要立即使用",
+    SaasTips: "和大银河宇宙第一偶像聊天",
     TopTips:
-      "にこにこー♪让你的心绽放笑容～我是传递笑容的矢泽妮可～要记得妮可哦♪Love Nico！",
+      "にこにこー♪让你的心绽放笑容～",
   },
   ChatItem: {
     ChatItemCount: (count: number) => `${count} 条对话`,
