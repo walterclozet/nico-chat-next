@@ -28,7 +28,7 @@ const en: LocaleType = {
     Later: "Later",
     SaasTips: "Too Complex, Use Immediately Now",
     TopTips:
-      "🥳 NextChat AI launch promotion: Instantly unlock the latest models like OpenAI o1, GPT-4o, Claude-3.5!",
+      "Nico Nico Ni~ Wanna chat with newer me?",
   },
   ChatItem: {
     ChatItemCount: (count: number) => `${count} messages`,
