@@ -8,7 +8,7 @@
     "withGlobalTauri": true
   },
   "package": {
-    "productName": "NextChat",
+    "productName": "NicoChat",
     "version": "2.15.8"
   },
   "tauri": {
@@ -72,7 +72,7 @@
         "icons/icon.icns",
         "icons/icon.ico"
       ],
-      "identifier": "com.yida.chatgpt.next.web",
+      "identifier": "com.yazawa.nico.chat.web",
       "longDescription": "Nico Chat(based on NextChat) is a cross-platform chat client, including Web/Win/Linux/OSX/PWA.",
       "macOS": {
         "entitlements": null,
